@@ -1,5 +1,5 @@
-### Hi there! I'm Mohamed Ashraf 📊
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="15%">
+### Hi there! I'm Mohamed Ashraf 
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10%">
 
 I'm a Data Analyst passionate about turning raw data into valuable insights, and I am currently expanding my skills to move towards **Data Engineering**.
 
